@@ -1,0 +1,1 @@
+Hisse listesi yüklenirken arama yapılırsa uygulama hata veriyor.
